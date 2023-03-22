@@ -3,7 +3,7 @@ layout: post
 title: 这是一篇预告
 date: 2023-3-16
 categories: blog
-tags: [个人日记,第一]
+tags: [个人日记,预告]
 description: 预告。
 ---
 
