@@ -16,7 +16,7 @@
 
 Fig 1. Object Detection Milestones since Millennium.
 
-![As a supplement of the previous.](./assets/2023-09-12-Object-Detection-Algorithm/Recent-Works/remotesensing-14-04435-g006.png)
+![As a supplement of the previous.](./assets/2023-09-12-Object-Detection-Algorithm:Recent-Works/remotesensing-14-04435-g006.png)
 
 Fig 2. As a supplement of the previous.
 
