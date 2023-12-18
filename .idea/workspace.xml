@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43dce67a-a5a2-41c1-bb33-a0741dd97576" name="Changes" comment="New blog update" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MSs1ZMZu5R5cY2Hnyml0n4Sd4e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ming/Documents/Projects/Endlinc.github.io&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43dce67a-a5a2-41c1-bb33-a0741dd97576" name="Changes" comment="" />
+      <created>1677772104781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677772104781</updated>
+      <workItem from="1677772107582" duration="7244000" />
+      <workItem from="1678720964006" duration="377000" />
+      <workItem from="1678721463979" duration="5344000" />
+      <workItem from="1678808491530" duration="1780000" />
+      <workItem from="1678895552589" duration="154000" />
+      <workItem from="1678895737702" duration="3451000" />
+      <workItem from="1679501018389" duration="58000" />
+      <workItem from="1679583262279" duration="4093000" />
+      <workItem from="1679669531553" duration="1209000" />
+      <workItem from="1679930783117" duration="1898000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add some information">
+      <created>1677773233339</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677773233339</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Try modifying home page">
+      <created>1677858520099</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677858520099</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Make home page work.">
+      <created>1677858730926</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677858730926</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update to a new theme skin">
+      <created>1678118544023</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678118544023</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Make home page cleaner">
+      <created>1678810125619</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678810125619</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update some personal info.">
+      <created>1678897747021</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678897747021</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Some syntax error">
+      <created>1678897801510</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678897801510</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Tags updates">
+      <created>1679501051181</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679501051181</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1. New post update&#10;2. Webpage modification">
+      <created>1679586989462</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679586989462</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fix problem &quot;tags&quot;">
+      <created>1679587905806</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679587905806</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add google41ebd25be8d390a9.html">
+      <created>1679669654662</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679669654662</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Generate sitemap by official plugin">
+      <created>1679931166705</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1679931166705</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Generate sitemap by official plugin">
+      <created>1679931556846</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1679931556846</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Generate sitemap by official plugin">
+      <created>1679931660605</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1679931660605</updated>
+    </task>
+    <task id="LOCAL-00015" summary="New blog update">
+      <created>1679933257161</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1679933257161</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add some information" />
+    <MESSAGE value="Try modifying home page" />
+    <MESSAGE value="Make home page work." />
+    <MESSAGE value="Update to a new theme skin" />
+    <MESSAGE value="Make home page cleaner" />
+    <MESSAGE value="Update some personal info." />
+    <MESSAGE value="Some syntax error" />
+    <MESSAGE value="Tags updates" />
+    <MESSAGE value="1. New post update&#10;2. Webpage modification" />
+    <MESSAGE value="Fix problem &quot;tags&quot;" />
+    <MESSAGE value="Add google41ebd25be8d390a9.html" />
+    <MESSAGE value="Generate sitemap by official plugin" />
+    <MESSAGE value="New blog update" />
+    <option name="LAST_COMMIT_MESSAGE" value="New blog update" />
+  </component>
+</project>
