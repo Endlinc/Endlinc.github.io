@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Decision Tree Algorithm
+title: My recent work in the object detection algorithm
 date: 2023-09-12
 categories: blog
 tags: [ Machine Learning,My recent works ]
